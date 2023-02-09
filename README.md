@@ -1,2 +1,2 @@
-# Hacker-ICT
-Welcome to Hacker ICT ESUT
+# OG Station -ICT
+Welcome to  O.G Station  ICT ESUT
