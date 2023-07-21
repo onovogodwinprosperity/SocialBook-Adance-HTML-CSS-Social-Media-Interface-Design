@@ -1,6 +1,6 @@
 # Explanation of steps the above Code is writen and strutured
 
-The HTML code you provided represents a web page layout with various sections and elements. Here's a breakdown of the HTML structure and an explanation of the corresponding CSS syntax:
+The HTML code i provided represents a web page layout with various sections and elements. Here's a breakdown of the HTML structure and an explanation of the corresponding CSS syntax:
 
 The HTML starts with the <!DOCTYPE html> declaration and the opening <html> tag. The lang attribute is set to "en" for English.
 
@@ -29,3 +29,5 @@ The CSS syntax provided in your code is used to style various elements in the HT
 For example, you can see CSS rules for setting the background color, font family, margins, paddings, and other styles for different elements and classes. There are also specific rules for styling the navigation bar, search box, user icons, story gallery, post containers, and settings menu.
 
 To apply the provided CSS to the HTML, save the CSS code in a separate file named style.css and link it in the HTML file using the <link> tag, as shown in your original HTML code.
+
+## Best Regard from ONovo Godwin Prosperity!!!
