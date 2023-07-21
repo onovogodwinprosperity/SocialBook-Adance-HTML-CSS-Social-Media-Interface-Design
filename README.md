@@ -1,4 +1,9 @@
-# Explanation of steps the above Code is writen and strutured
+
+# Below are details of steps the above Code is writen and strutured/ HTML/CSS and a bit Vanilla Javascript!!!
+[social media responsive.webm](https://github.com/onovogodwinprosperity/SocialNG-Adance-HTML-CSS-Social-Media-Interface-Design/assets/104012600/8159d85f-5772-4fbe-88f3-66455e7ac802)
+
+## Responciveness
+
 
 The HTML code i provided represents a web page layout with various sections and elements. Here's a breakdown of the HTML structure and an explanation of the corresponding CSS syntax:
 
